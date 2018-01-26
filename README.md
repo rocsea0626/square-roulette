@@ -1,1 +1,1 @@
-# square-roulette
+Simple web app, generate a random number between 1 and 9 with animation
